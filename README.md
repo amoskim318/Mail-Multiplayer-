@@ -8,7 +8,7 @@ Developed by **Amos Kim** & **Top Boy** ✨
 ## 🎨 Preview
 
 ### Banner
-![Tool Banner](assets/banner.png)
+![Tool Banner](src/Screenshot_20250922-044454.png)
 
 ### Demo Output
 ![Demo Screenshot](assets/demo.png)
