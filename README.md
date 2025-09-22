@@ -11,7 +11,7 @@ Developed by **Amos Kim** & **Top Boy** ✨
 ![Tool Banner](src/Screenshot_20250922-044454.png)
 
 ### Demo Output
-![Demo Screenshot](assets/demo.png)
+![Demo Screenshot](src/Screenshot_20250922-044536.png)
 
 ---
 
